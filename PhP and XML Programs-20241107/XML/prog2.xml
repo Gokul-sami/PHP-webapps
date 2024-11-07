@@ -1,0 +1,14 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes" ?>
+<!-- DTD Example: PCDATA-parsed character, CDATA - character data -->
+<!DOCTYPE address [
+   <!ELEMENT address (name,company,phone)>
+   <!ELEMENT name (#PCDATA)>
+   <!ELEMENT company (#PCDATA)>
+   <!ELEMENT phone (#PCDATA)>
+]>
+
+<address>
+   <name>Rajeev Kumar</name>
+   <company>Oasis Engines</company>
+   <phone>(012) 123-4567</phone>
+</address>

@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<contacts>
+    <contact-info>
+    <name>Rajeev Kumar</name>
+    <company>Ford Essentials</company>
+    <phone>(022) 123-4567</phone>
+    </contact-info>
+
+    <contact-login>
+        <id>cse</id>
+        <cred>pass</cred>
+    </contact-login>
+</contacts>

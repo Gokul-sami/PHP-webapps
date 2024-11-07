@@ -1,0 +1,12 @@
+<?xml version="1.0"?>  
+<employee  
+xmlns="http://www.myownxml.com"  
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+xsi:schemaLocation="http://www.myownxml.com prog4.xsd">  
+  
+  <firstname>Rena</firstname>  
+  <lastname>Janet</lastname>  
+  <email>vimal@google.com</email>  
+</employee>  
+
+<!-- complexType , simpleType-->

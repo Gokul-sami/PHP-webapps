@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<!-- <?xml-stylesheet type="text/xsl" href="users_style.xsl"?> -->
+<bio>
+    <user>
+        <id>1</id>
+        <name>Tintin</name>
+        <description>Lead Role in the Act</description>
+    </user>
+    <user>
+        <id>2</id>
+        <name>Captain Haddock</name>
+        <description>Support Role in the Act</description>
+    </user>
+    <user>
+        <id>3</id>
+        <name>Snowy</name>
+    </user>
+    <user>
+        <id>4</id>
+        <name>Thomson</name>
+    </user>
+    <user>
+        <id>5</id>
+        <name>Thompson</name>
+    </user>
+    <user>
+        <id>6</id>
+        <name>Professor Calculus</name>
+    </user>
+    <user>
+        <id>7</id>
+        <name>General Alcazar</name>
+    </user>
+    <user>
+        <id>8</id>
+        <name>Rastapopoulos</name>
+    </user>
+    <user>
+        <id>9</id>
+        <name>Bianca Castafiore</name>
+    </user>
+    <user>
+        <id>10</id>
+        <name>General Tapioca</name>
+    </user>
+</bio>
