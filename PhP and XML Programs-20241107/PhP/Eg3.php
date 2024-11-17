@@ -60,23 +60,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<? php
+<?php
 /*
 Modes 	Description
 r 	Open a file for read only. File pointer starts at the beginning of the file

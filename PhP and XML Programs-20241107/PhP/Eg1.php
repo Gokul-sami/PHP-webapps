@@ -104,20 +104,20 @@
          var_dump($x6);
 
          echo "<br>";echo "<br>";
-
-                                    /*$array = array(); 
+                                    $array = array(); 
                                     for ($i = 0; $i < 10; $i++)
                                     {
                                        //array_push($array, $some_data);
                                        $array[$i] = 20; //for single items.
                                     }
-                                    echo "$array[9]"; 
-                                    types of arrays in PHP
+                                    echo "$array[5]"; 
+                                    /*types of arrays in PHP
                                     */   
-
-
          class Student 
          {
+            public $name;
+            public $homeno;
+
             function Student() //constructor
             {
                 $this->name = "SWAN";
@@ -143,7 +143,7 @@
         $obj = new Student();
         $obz = new Student();
             // show object properties
-        echo $obj->name;
+        echo "$obj->name";
       //   new Student()->name;
                         echo "<br> <br>";
          echo $obj->homeno;
