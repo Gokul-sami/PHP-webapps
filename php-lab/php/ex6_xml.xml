@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songs>
+    <song>
+        <name>Electric Love</name>
+        <artist>Borns</artist>
+        <detail>A popular pop song by Borns.</detail>
+        <link>https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ</link>
+    </song>
+    <song>
+        <name>Fein</name>
+        <artist>Travis Scott, Playboi Carti</artist>
+        <detail>Hip-hop track by Travis Scott and Playboi Carti.</detail>
+        <link>https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA</link>
+    </song>
+    <!-- Add more songs as needed -->
+</songs>
